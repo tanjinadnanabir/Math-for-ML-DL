@@ -1,2 +1,2 @@
 # Math-for-ML-DL
-Math (Linear Algebra, Calculus and Statistics) Concepts 
+Math (Linear Algebra, Calculus, Statistics, and Probability) Concepts 
